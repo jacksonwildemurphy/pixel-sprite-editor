@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>Resources_External/brush_black.png</file>
+        <file>Resources_External/brush_white.png</file>
+        <file>Resources_External/eraser_black.png</file>
+        <file>Resources_External/eraser_white.png</file>
+        <file>Resources_External/fill_black.png</file>
+        <file>Resources_External/fill_white.png</file>
+        <file>Resources_External/picker_black.png</file>
+        <file>Resources_External/picker_white.png</file>
+        <file>Resources_External/add_black.png</file>
+        <file>Resources_External/add_white.png</file>
+        <file>Resources_External/trash_black.png</file>
+        <file>Resources_External/trash_white.png</file>
+    </qresource>
+</RCC>
