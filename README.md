@@ -1,8 +1,8 @@
-#A Sprite Editor
+# Pixel Sprite Editor
 
-###An editor for creating pixel art and sprite animations. Built in the University of Utah's CS 3505 course. Spring 2016.
+### An editor for creating pixel art and sprite animations. Built in the University of Utah's CS 3505 course. Spring 2016.
 
-###Check out the video above for a demo.
+### Check out the video above for a demo.
 
 <b>Team Waterfail Members:</b><br>
 Jackson Murphy <jacksonmurphy1@gmail.com><br>
